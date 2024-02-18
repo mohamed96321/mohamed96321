@@ -1,15 +1,17 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
-<h3 align="center">A software engineer | A developer!</h3>
+<h3 align="center">A software engineer | Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEyYzF2cWNlOXJ3eHZoOTRyMHBuY2l1YWVrZzUxdXJuZ3Vmcm9obSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed96321&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed96321" /> </p>
 
-- 🌱 I’m currently learning **New Technologies**
+- 🧠 Creativity. **Not just write code, we art.**
+
+- 🌱 I’m currently learning **new technologies.**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk](https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk)
 
-- 💬 Ask me about **How to think like a developer?**
+- 💬 Ask me about **How to think like a developer**
 
 - 📫 How to reach me **atefm.me499@gmail.com**
 
