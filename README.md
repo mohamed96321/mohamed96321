@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Atef</h1>
-<h3 align="center">A software engineer | Developer.</h3>
+<h3 align="center">I AM a Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEyYzF2cWNlOXJ3eHZoOTRyMHBuY2l1YWVrZzUxdXJuZ3Vmcm9obSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed96321&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed96321" /> </p>
 
 - 🧠 Creativity. **Not just write code, we art.**
 
-- 🌱 I’m currently learning **new technologies.**
+- 🌱 I’m currently learning **from Rubber Duck <img width="30" src="https://cs50.ai/static/img/ddb50.gif" alt="Rubber Duck" />**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk](https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk)
+- 👨‍💻 All of my projects are available at resume [https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk](https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk)
 
-- 💬 Ask me about **How to think like a developer**
+- 💬 Ask me about **How to think like a developer?**
 
 - 📫 How to reach me **atefm.me499@gmail.com**
 
