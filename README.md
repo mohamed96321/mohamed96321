@@ -40,12 +40,10 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
-<div align="right">
+<div align="center">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed96321&" alt="mohamed96321" /></p>
 </div>
-<div align="left">
-    <p><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed96321&show_icons=true&locale=en&layout=compact" alt="mohamed96321" /></p>
+<div align="center">
+    <p><img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed96321&show_icons=true&locale=en&layout=compact" alt="mohamed96321" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed96321&show_icons=true&locale=en" alt="mohamed96321" /></p>
 </div>
-<div align="right">
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohamed96321&show_icons=true&locale=en" alt="mohamed96321" /></p>
-</div>	
