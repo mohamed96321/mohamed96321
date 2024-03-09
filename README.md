@@ -4,19 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed96321&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed96321" /> </p>
 
-- 🧠 Creativity. **Not just write code, we art.**
+- 🧠 Creativity. **Not just write code, we art**
 
 - 🌱 I’m currently learning **from Rubber Duck <img width="30" src="https://cs50.ai/static/img/ddb50.gif" alt="Rubber Duck" />**
 
-- 👨‍💻 All of my projects are available at resume [https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk](https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk)
-
+- 👨‍💻 All of my projects are available on GitHub
 - 💬 Ask me about **How to think like a developer?**
 
 - 📫 How to reach me **atefm.me499@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk](https://drive.google.com/file/d/1yHOtNnI3A-yUZ2CUpdow5A-qT_4RicAt/view?usp=drivesdk)
+- 📄 Know about my experiences via my resume [https://drive.google.com/file/d/1-PyvfRII0Whlg0XOaoROGvhS_d5unHxO/view?usp=drivesdk](https://drive.google.com/file/d/1-PyvfRII0Whlg0XOaoROGvhS_d5unHxO/view?usp=drivesdk)
 
-- ⚡ Fun fact **Developers replaces AI!**
+- ⚡ Fun fact **Most Developers have ADHD**
 <br/>
 <hr/>
 <h2 align="center">🔗 Connect With Me 🔗</h2>
