@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **Most Developers have ADHD**
 <br/>
+<br/>
 <hr/>
 <h2 align="center">🔗 Connect With Me 🔗</h2>
 <br/>
